@@ -1,3 +1,7 @@
+Weather Data Analysis Project
+
+This project analyzes a dataset of weather conditions recorded throughout 2012. The data includes various meteorological measurements taken at hourly intervals.
+
 The project includes various data exploration and analysis tasks:
 
 1-Basic data inspection (shape, columns, data types)
